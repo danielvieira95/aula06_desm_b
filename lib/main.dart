@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 
 int cont = 0;
 void _msg() {
-  cont = cont + 1;
+  cont = cont + 2;
   print("Desenvolvimento Mobile 1");
   print("Contagem $cont");
 }
