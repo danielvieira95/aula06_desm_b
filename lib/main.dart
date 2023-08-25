@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
               },
               child: Text("Botão 1"),
             ),
-            ElevatedButton(onPressed: _msg, child: Text("Mensagem 2")),
+            ElevatedButton(onPressed: _msg, child: Text("Mensagem 1")),
             ElevatedButton(onPressed: _msg2, child: Text("Mensagem 2")),
           ],
         ),
